@@ -1,4 +1,5 @@
-# test
-テスト用
+# AXNOS Paint ユーザースクリプト版
+AXNOS Paint（アクノスペイント）をブラウザ上で動作させるユーザースクリプトです。
 
-# readmeサンプル
+## マニュアル
+* [https://axnospaint.github.io/test/](https://axnospaint.github.io/test/)
