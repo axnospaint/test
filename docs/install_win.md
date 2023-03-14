@@ -13,7 +13,7 @@
 ### ＜STEP2＞ 「自動バックアップ拡張ユーザースクリプト」のインストール
 
 1. 以下のリンクへ飛ぶ
-  * <span style="font-size: 1.5em;"><a href="https://github.com/axnospaint/text/raw/main/axnospaint_tks.user.js" target="_blank">[ AXNOS Paint ユーザースクリプト ]</a></span>
+  * <span style="font-size: 1.5em;"><a href="https://github.com/axnospaint/test/raw/main/axnospaint_tks.user.js" target="_blank">[ AXNOS Paint ユーザースクリプト ]</a></span>
 
 2. 「インストール」ボタンをクリック（画面が表示されない場合はSTEP1を再確認）
   * ![image](./assets/img/h5as_ss_win01.png)

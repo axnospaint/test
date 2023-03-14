@@ -15,7 +15,7 @@ iPad + Safariの例で説明を行います。
    * ![image](./assets/img/h5as_ss_ipad02.png)
 
 2. 以下のリンク先へ飛ぶ
-   * <span style="font-size: 1.5em;"><a href="https://github.com/axnospaint/text/raw/main/axnospaint_tks.user.js" target="_blank">[ AXNOS Paint ユーザースクリプト ]</a></span>
+   * <span style="font-size: 1.5em;"><a href="https://github.com/axnospaint/test/raw/main/axnospaint_tks.user.js" target="_blank">[ AXNOS Paint ユーザースクリプト ]</a></span>
 
 3. 「Stay」を実行し、アクセスを許可「常に許可」→「このWebサイトで常に許可」
    * ![image](./assets/img/h5as_ss_ipad03.png)

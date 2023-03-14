@@ -5,10 +5,10 @@
 // @description  AXNOS Paint UserScript
 // @author       AXNOS
 // @match        https://dic.nicovideo.jp/p/tegaki/*
-// @require      https://github.com/axnospaint/text/raw/main/lib/axnospaint.min.js
+// @require      https://github.com/axnospaint/test/raw/main/lib/axnospaint.min.js
 // @grant        none
-// @updateURL    https://github.com/axnospaint/text/raw/main/axnospaint_tks.user.js
-// @downloadURL  https://github.com/axnospaint/text/raw/main/axnospaint_tks.user.js
+// @updateURL    https://github.com/axnospaint/test/raw/main/axnospaint_tks.user.js
+// @downloadURL  https://github.com/axnospaint/test/raw/main/axnospaint_tks.user.js
 // ==/UserScript==
 
 var isExec = false;
