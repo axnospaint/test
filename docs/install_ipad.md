@@ -27,6 +27,6 @@ iPad + Safariの例で説明を行います。
 5. 画面右上の「作成」をタップ
    * ![image](./assets/img/h5as_ss_ipad06.png)
 
-6. ライブラリに「HTML5版お絵カキコ自動バックアップ機能拡張」が「アクティブ化」の状態で登録されていれば準備完了
+6. ライブラリに「AXNOS_Paint_UserScript」が「アクティブ化」の状態で登録されていれば準備完了
    * ![image](./assets/img/h5as_ss_ipad07.png)
 

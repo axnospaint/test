@@ -21,7 +21,7 @@
 3. ブラウザの「Tampermonkey」アイコンをクリックし、ダッシュボードを選択
   * ![image](./assets/img/h5as_ss_win02.png)
 
-4. インストール済みUserScriptに「html5autosaveExtension」が「有効」の状態で登録されていれば準備完了
+4. インストール済みUserScriptに「AXNOS_Paint_UserScript_TKS」が「有効」の状態で登録されていれば準備完了
   * ![image](./assets/img/h5as_ss_win03.png)
 
 ## 備考

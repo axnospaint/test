@@ -62,7 +62,6 @@ if (!document.getElementById('button_exec_axnospaint')) {
             paintBodyId: 'axnospaint_body',
             url_oekaki: 'https://dic.nicovideo.jp/oekaki/',
             useSameBBSCheck: true,
-            executionEnvironment: 'USERSCRIPT',
             restrictPost: true,
             headerText: document.getElementsByTagName('title')[0].textContent,
         });
